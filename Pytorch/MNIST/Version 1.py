@@ -13,7 +13,7 @@ from PIL import Image
 
 from torch.autograd import Variable
 
-# This model is from the Udacity Course: Introduction to Deep Learning with Pytorch
+# This model modified from the Udacity Course: Introduction to Deep Learning with Pytorch
 
 def test_network(net, trainloader):
 
